@@ -3,7 +3,13 @@ Capítulo 2: Flujo de trabajo básico.
 Capítulo 3: Repositorios remotos.
 Capítulo 4: Gestión de ramas.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Capitulo 5: Conclusiones.
 =======
 >>>>>>> bcf35567e213aa7a72295fbd580a3958fde50b2f
+=======
+Capitulo 5: Conclusiones..
+capitulo 6: aaa
+gian
+>>>>>>> task-001
 
